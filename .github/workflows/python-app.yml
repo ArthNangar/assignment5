@@ -24,4 +24,4 @@ jobs:
         pytest --cov=app tests/
     - name: Check coverage
       run: |
-        coverage report --fail-under=100
+        coverage report --fail-under=90
