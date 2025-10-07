@@ -1,3 +1,6 @@
+# Name : ARTH RANCHHODBHAI NANGAR
+# DATE : 10/6/2025
+
 from dataclasses import dataclass
 from .operations import operation_factory
 from .exceptions import OperationError
